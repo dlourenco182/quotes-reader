@@ -1,3 +1,5 @@
 # quotes-reader
 Exercise to consume API's to show some quotes
-Link: https://dlourenco182.github.io/quotes-reader/
+
+
+Link: https://dlourenco182.github.io/quotes-reader/quote%20generator/index.html
